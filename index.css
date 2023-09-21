@@ -20,7 +20,7 @@
     outline: none;
     border: none;
     text-decoration: none;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     transition: 0.2s linear;
 }
 
@@ -102,6 +102,7 @@ nav #close {
 .header .content {
     padding: 150px 7%;
     color: var(--white);
+    text-transform: uppercase;
 }
 
 .header .content h3 {
@@ -359,6 +360,7 @@ nav #close {
 }
 
 .contact .container .contact-box div h2 span {
+    font-size: 13px;
     font-weight: 300;
 
 }
