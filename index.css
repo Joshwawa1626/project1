@@ -260,6 +260,7 @@ nav #close {
 .menu .container .menu-box {
     width: auto;
     cursor: pointer;
+    
 }
 
 .menu .container .menu-box .menu-img {
@@ -293,6 +294,8 @@ nav #close {
     background: var(--white);
     left: 10%;
     border-radius: 0.8rem;
+    box-shadow: 0px 0px 20px 0px #222222;
+
 }
 
 .menu .container .menu-box .menu-content h3 {
